@@ -1,0 +1,7 @@
+{
+  "name": "gestion-activos",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/workspaces/proyecto",
+  "forwardPorts": [3000, 5000]
+}
